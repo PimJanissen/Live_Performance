@@ -1,0 +1,6 @@
+Wat ik nog wil doen:
+
+-	Klassendiagram : cadeautypes en vaardigheden toevoegen aan administratie, methodes voor toevoegen/verwijderen van pieten en gemeenten
+Schermontwerpen
+Testplan afmaken
+Req’s voor cadeautypes en vaardigheden?
